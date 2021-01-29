@@ -1,0 +1,30 @@
+body {
+	font: 20px Helvetica;
+}
+
+.navbar {
+	background-color: #d1d3d3;
+}
+
+.about {
+	background-color: #7899a0;
+	color: #222668;
+}
+
+.margin {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.working {
+	background-color: #8d6fa1;
+}
+
+.aBitMore {
+	background-color: #dab570;
+}
+
+.bg-footer {
+	background-color: #d1d3d3;
+	color: #166338bb;
+}
